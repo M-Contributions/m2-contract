@@ -1,4 +1,4 @@
-# This module bases its very own existence in Design by Contract Pattern. Although is not something i came up with, it's appreciated the fact that a manifesto should be declared in order to provide insights of what this pattern stands for
+# This module bases its very own existence in Design by Contract Pattern.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ticaje/m2-contract.svg?style=flat-square)](https://packagist.org/packages/ticaje/m2-contract)
 [![Quality Score](https://img.shields.io/scrutinizer/g/M-Contributions/m2-contract.svg?style=flat-square)](https://scrutinizer-ci.com/g/M-Contributions/m2-contract)
@@ -10,6 +10,7 @@ This module represents what we, O.O Designers, live for when it comes to complex
 I will be glimpsing some of the basis of this amazing pattern but for more discussion and contribution i gently encourage you to check 
 my blog out so we can discuss and make interesting points on this.
 
+Although is not something i came up with, it's appreciated the fact that a manifesto should be declared in order to provide insights of what this pattern stands for.
 ## Installation
 
 You can install this package using composer(the only way i recommend)
