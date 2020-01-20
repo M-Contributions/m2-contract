@@ -40,6 +40,6 @@ class Responder implements ResponderInterface
             ->setSuccess($response[self::SUCCESS_KEY])
             ->setContent(json_decode(json_encode($response[self::CONTENT_KEY])))
             ->setMessage($response[self::MESSAGE_KEY]);
-        $this->response;
+        return $this->response;
     }
 }
